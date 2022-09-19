@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(14, 10, 10);
+   color:azure;
+   margin:0;
+   text-align: center;
+   
+   
+
+}
+ .primera{ 
+     background-image: url(https://as01.epimg.net/meristation/imagenes/2021/12/18/betech/1639817723_888453_1639817851_noticia_normal.jpg); 
+    display: center;
+    height: 500px;
+    text-align: center;
+  
+    }
+
+
+.footerUno{
+    text-align: center;
+}
+
+.segunda{
+    text-align: center;
+}
+ .select{
+
+    margin: 50px 5% 0 5%;
+ }   
+ 
+ .losDos{
+    height:20px;
+ }
